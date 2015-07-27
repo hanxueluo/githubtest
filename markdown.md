@@ -15,3 +15,7 @@ st->io->op->cond
 cond(yes)->e
 cond(no)->sub->io
 ```
+
+-[ ] Check list
+    -[ ] Check list subitem
+    -[x] Check list subitem
